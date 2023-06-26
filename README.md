@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning MERN Fullstack
 - 💞️ I’m looking to collaborate on React and JS
 - 📫 To Reach me you can Mail me @ nkb.coder@gmail.com
-- 💼 I'm looking for a decent job in React.
+- 🤝 Connect me on LinkdIn - https://www.linkedin.com/in/codernkb
+- 💼 I'm looking for a decent job in React and Related Technologies.
