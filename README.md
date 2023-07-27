@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codernkb
 - 👀 I’m interested in MERN projects
 - 🌱 I’m currently learning MERN related Fullstack Technologies
-- 💞️ I’m looking to collaborate on React and JS
+- 💞️ I’m looking to collaborate on React.js and Full-stack MERN
 - 📫 To Reach me you can Mail me @ nkb.coder@gmail.com
 - 🤝 Connect me on LinkdIn - https://www.linkedin.com/in/codernkb
-- 💼 I'm Working in Back-end with Node and MongoDB.
+- 💼 I'm Working in Back-end with Node and MongoDB and won't be able to update much on personal Git account as Office Git account is different
