@@ -6,7 +6,7 @@
 - 👀 I’m passionate about MERN stack projects and Generative AI.
 - 🌱 Currently, I’m expanding my knowledge in Fullstack MERN technologies and working with Generative AI.
 - 💼 I specialize in backend development with Node.js, MongoDB, Python, FastAPI, and MySQL.
-- 🛠️ I have extensive experience with React.js and have worked on multiple projects using this technology.
+- 🛠️ I have extensive experience with React.js + Node.js and have worked on multiple projects using this technology.
 - 📅 I have 1.6 years of experience in software development.
 
 ## Collaboration
